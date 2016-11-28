@@ -1,6 +1,6 @@
 # Spoofify
 
-🚨 *Disclaimer: Please use for educational purposes only.*
+🚨 *Disclaimer: Please use for educational purposes only.* 🚨
 
 A service that lets you [spoof emails](https://en.wikipedia.org/wiki/Email_spoofing) to `@uwaterloo.ca` email addresses.
 
@@ -27,7 +27,7 @@ npm install
 Important:
 - You must host the server on your own, i.e. http://spoofify.herokuapp.com won't work alone. (See instuctions below)
 - The server must be within the University of Waterloo subnet, which can be done by:
-  - Being there physically: https://goo.gl/maps/rW7R94vva4m
+  - Using eduroam (wifi): https://goo.gl/maps/rW7R94vva4m
   - VPN: https://uwaterloo.ca/information-systems-technology/services/virtual-private-network-vpn
   - SSH: https://cs.uwaterloo.ca/cscf/howto/ssh/
 
